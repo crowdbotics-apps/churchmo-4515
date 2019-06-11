@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT churchmo_4515.wsgi:application

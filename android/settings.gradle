@@ -1,0 +1,3 @@
+rootProject.name = 'churchmo_4515'
+
+include ':app'
